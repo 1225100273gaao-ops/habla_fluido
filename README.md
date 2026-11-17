@@ -59,3 +59,13 @@ samples, guidance on mobile development, and a full API reference.
 ### Código en verde
 
 ![Verde](capturas/r3_02_verde.png)
+
+## Ronda 4. Progreso, nivel y plan diario
+
+### Pruebas en rojo
+
+![Rojo](capturas/r4_01_rojo.png)
+
+### Código en verde
+
+![Verde](capturas/r4_02_verde.png)

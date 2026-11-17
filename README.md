@@ -33,3 +33,13 @@ samples, guidance on mobile development, and a full API reference.
 ### Reglas, niveles y excepciones
 
 ![Reglas](capturas/r1_04_reglas.png)
+
+## Ronda 2. El comparador
+
+### Pruebas en rojo
+
+![Rojo](capturas/r2_01_rojo.png)
+
+### Código en verde
+
+![Verde](capturas/r2_02_verde.png)

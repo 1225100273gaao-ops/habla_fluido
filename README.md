@@ -73,3 +73,13 @@ samples, guidance on mobile development, and a full API reference.
 ## Ronda 5. Contenido, lecturas y el contrato del tutor
 
 ![Contenido y contratos](capturas/r5_01_contenido_contratos.png)
+
+## Ronda 6. El proxy del tutor
+
+### Pruebas en rojo
+
+![Rojo](capturas/r6_01_rojo.png)
+
+### Código en verde
+
+![Verde](capturas/r6_02_verde.png)

@@ -131,3 +131,9 @@ samples, guidance on mobile development, and a full API reference.
 ### Todas las pruebas en verde
 
 ![Todas las pruebas](capturas/r9c_03_todas_las_pruebas.png)
+
+## Ronda 10. Pantallas y raíz de composición
+
+### Parte A: dependencias, widgets y primeras pantallas
+
+![Pantallas](capturas/r10a_01_pantallas.png)

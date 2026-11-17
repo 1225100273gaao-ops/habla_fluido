@@ -83,3 +83,17 @@ samples, guidance on mobile development, and a full API reference.
 ### Código en verde
 
 ![Verde](capturas/r6_02_verde.png)
+
+## Ronda 7. El tutor simulado y el cliente HTTP
+
+### Pruebas en rojo
+
+![Rojo](capturas/r7_01_rojo.png)
+
+### Código en verde
+
+![Verde](capturas/r7_02_verde.png)
+
+### Código en verde
+
+![Verde](capturas/r7_02_verde.png)

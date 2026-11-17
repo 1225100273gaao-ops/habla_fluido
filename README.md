@@ -97,3 +97,7 @@ samples, guidance on mobile development, and a full API reference.
 ### Código en verde
 
 ![Verde](capturas/r7_02_verde.png)
+
+## Ronda 8. La voz: hablar y escuchar
+
+![Voz](capturas/r8_01_voz.png)

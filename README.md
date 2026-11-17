@@ -111,3 +111,11 @@ samples, guidance on mobile development, and a full API reference.
 ### Parte A: código en verde
 
 ![Verde](capturas/r9a_02_verde.png)
+
+### Parte B: ejercicios, pruebas en rojo
+
+![Rojo](capturas/r9b_01_rojo.png)
+
+### Parte B: código en verde
+
+![Verde](capturas/r9b_02_verde.png)

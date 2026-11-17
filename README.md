@@ -69,3 +69,7 @@ samples, guidance on mobile development, and a full API reference.
 ### Código en verde
 
 ![Verde](capturas/r4_02_verde.png)
+
+## Ronda 5. Contenido, lecturas y el contrato del tutor
+
+![Contenido y contratos](capturas/r5_01_contenido_contratos.png)

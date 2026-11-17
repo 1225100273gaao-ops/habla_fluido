@@ -43,3 +43,19 @@ samples, guidance on mobile development, and a full API reference.
 ### Código en verde
 
 ![Verde](capturas/r2_02_verde.png)
+
+## Ronda 3. Repetición espaciada con SM-2
+
+### Pruebas en rojo
+
+![Rojo](capturas/r3_01_rojo.png)
+
+## Ronda 3. Repetición espaciada con SM-2
+
+### Pruebas en rojo
+
+![Rojo](capturas/r3_01_rojo.png)
+
+### Código en verde
+
+![Verde](capturas/r3_02_verde.png)

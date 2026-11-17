@@ -119,3 +119,15 @@ samples, guidance on mobile development, and a full API reference.
 ### Parte B: código en verde
 
 ![Verde](capturas/r9b_02_verde.png)
+
+### Parte C: conversación, pruebas en rojo
+
+![Rojo](capturas/r9c_01_rojo.png)
+
+### Parte C: código en verde
+
+![Verde](capturas/r9c_02_verde.png)
+
+### Todas las pruebas en verde
+
+![Todas las pruebas](capturas/r9c_03_todas_las_pruebas.png)

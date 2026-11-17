@@ -101,3 +101,13 @@ samples, guidance on mobile development, and a full API reference.
 ## Ronda 8. La voz: hablar y escuchar
 
 ![Voz](capturas/r8_01_voz.png)
+
+## Ronda 9. ViewModels
+
+### Parte A: núcleo y repaso, pruebas en rojo
+
+![Rojo](capturas/r9a_01_rojo.png)
+
+### Parte A: código en verde
+
+![Verde](capturas/r9a_02_verde.png)

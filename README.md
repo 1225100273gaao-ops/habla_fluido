@@ -141,3 +141,21 @@ samples, guidance on mobile development, and a full API reference.
 ### Parte B: análisis limpio y todas las pruebas en verde
 
 ![Análisis y pruebas](capturas/r10b_01_analisis_y_pruebas.png)
+
+### La app en ejecución
+
+#### Pantalla de inicio
+
+![Inicio](capturas/r10b_02_inicio.png)
+
+#### Pronunciación
+
+![Pronunciación](capturas/r10b_03_pronunciacion.png)
+
+#### Escritura
+
+![Escritura](capturas/r10b_04_escritura.png)
+
+#### Conversación
+
+![Conversación](capturas/r10b_05_conversacion.png)

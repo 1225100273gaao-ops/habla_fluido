@@ -137,3 +137,7 @@ samples, guidance on mobile development, and a full API reference.
 ### Parte A: dependencias, widgets y primeras pantallas
 
 ![Pantallas](capturas/r10a_01_pantallas.png)
+
+### Parte B: análisis limpio y todas las pruebas en verde
+
+![Análisis y pruebas](capturas/r10b_01_analisis_y_pruebas.png)

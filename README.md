@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+#AUTOR: Aguilar Ortiz Gael Alejandro
+#Grupo: GTID241
+#Materia: Aplicaciones Móviles
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
